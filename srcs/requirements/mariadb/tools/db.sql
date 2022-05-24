@@ -1,0 +1,5 @@
+CREATE DATABASE inception;
+CREATE USER 'pkari'@'%' IDENTIFIED BY '123';
+GRANT ALL PRIVILEGES ON inception.* TO 'pkari'@'%';
+FLUSH PRIVILEGES;
+ALTER USER 'root'@'localhost' IDENTIFIED BY '321';
