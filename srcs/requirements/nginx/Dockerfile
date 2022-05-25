@@ -1,12 +1,12 @@
 FROM debian:buster
 
-RUN apt-get update \
-    && apt-get install -y nginx openssl
+RUN apt-get update
+RUN apt-get install -y nginx openssl
+
+EXPOSE 443
 
 COPY ./conf/default /etc/nginx/sites-enabled/default
 COPY ./tools/n_start.sh /var/www
-
-EXPOSE 443
 
 RUN chmod +x /var/www/n_start.sh
 
