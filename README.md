@@ -21,14 +21,19 @@ ___
 
 ## 🚀 **Description**
 
-This project aims to broaden your knowledge of system administration by using Docker. You will virtualize several Docker images, creating them in your new personal virtual machine.
+Technology: 
+> + Docker
+> + docker-compose
+> + containerization
 
 This project consists in having you set up a small infrastructure composed of different services under specific rules. The whole project has to be done in a virtual machine. You have to use docker-compose.
 
 The application that we should succeed consists of three containers:
-+ A Docker container that contains NGINX with TLSv1.2 or TLSv1.3 only.
-+ A Docker container that contains WordPress + php-fpm only without nginx.
-+ A Docker container that contains MariaDB only without nginx.
+> + A Docker container that contains NGINX with TLSv1.2 or TLSv1.3 only.
+> + A Docker container that contains WordPress + php-fpm only without nginx.
+> + A Docker container that contains MariaDB only without nginx.
+
+Also, each container must have its own volumes, and also all three containers must have a docker-network.
 
 ___
 
