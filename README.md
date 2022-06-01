@@ -40,7 +40,7 @@ ___
 ## 🔍 **What does it look like?**
 
 <p align="center">
-    <img src="https://github.com/cherdantsevilya/Inception/blob/main/content/Screen%20Shot%202022-05-30%20at%206.25.25%20PM.png" width="560" height="700">
+    <img width="556" alt="Screen Shot 2022-05-30 at 6 25 25 PM" src="https://user-images.githubusercontent.com/70847388/171483375-0035921f-c9b0-447f-b439-96a231005d35.png">
 </p>
 
 ___
