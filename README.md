@@ -39,7 +39,9 @@ ___
 
 ## 🔍 **What does it look like?**
 
-![alt text](https://github.com/CherdantsevIlya/Inception/blob/main/content/Screen%20Shot%202022-05-30%20at%206.25.25%20PM.png)
+<p align="center">
+    <img src="https://github.com/cherdantsevilya/Inception/blob/main/content/Screen%20Shot%202022-05-30%20at%206.25.25%20PM.png" width="400" height="600">
+</p>
 
 ___
 
