@@ -21,7 +21,7 @@ The application that we should succeed consists of three containers:
 
 Also, each container must have its own volumes, and also all three containers must have a docker-network.
 
-###### For detailed information, refer to the [**subject of this project**](https://github.com/CherdantsevIlya/Inception/blob/main/content/en.subject.pdf).
+###### *For detailed information, refer to the [**subject of this project**](https://github.com/CherdantsevIlya/Inception/blob/main/content/en.subject.pdf).*
 
 ___
 
