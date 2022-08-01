@@ -4,20 +4,6 @@
 
 ___
 
-## :memo: **About**
-
-_This project aims to broaden your knowledge of system administration by using Docker. You will virtualize several Docker images, creating them in your new personal virtual machine._
-
-### *Keywords*  
-> + System administration
-
-### *Skills*
-> + Rigor
-> + Network & system administration
-
-For detailed information, refer to the [**subject of this project**](https://github.com/CherdantsevIlya/Inception/blob/main/content/en.subject.pdf).
-
-___
 
 ## 🚀 **Description**
 
@@ -34,6 +20,8 @@ The application that we should succeed consists of three containers:
 > + A Docker container that contains MariaDB only without nginx.
 
 Also, each container must have its own volumes, and also all three containers must have a docker-network.
+
+###### For detailed information, refer to the [**subject of this project**](https://github.com/CherdantsevIlya/Inception/blob/main/content/en.subject.pdf).
 
 ___
 
